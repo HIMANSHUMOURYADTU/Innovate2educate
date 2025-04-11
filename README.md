@@ -49,7 +49,7 @@ Our mission? To replace static education with dynamic, interactive experiences t
 
 ### Installation
 1. **Download the App**:
-   - [Android APK](#) (Coming soon!)
+   - [Android APK](#) (Try it now!)
    - [iOS App Store](#) (Coming soon!)
    - [Web Version](#) (Try it now!)
 2. **Run the App**:
